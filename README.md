@@ -1,3 +1,2 @@
 # hello-world
-i love :coffe , :pizza , :dancer:
-#游戏ID角鲨烯和姓氏结合起来的账号
+账号ID之所以和实验报告有偏差是因为创造账号时拿了游戏常用ID角鲨烯和姓氏结合起来作为账号ID
